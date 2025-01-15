@@ -60,6 +60,3 @@ Applied concepts from UCSD's Principles of Data Science course to create a funct
 <footer>
     <p>&copy; 2025 Maggie Shao. All rights reserved.</p>
 </footer>
-
-</body>
-</html>
