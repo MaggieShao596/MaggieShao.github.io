@@ -1,6 +1,6 @@
 # Maggie Shao
 
-<img src="https://github.com/user-attachments/assets/575215e2-199d-4820-9d8b-32bd738e910c" alt="Maggie Shao" width="150">
+<img src="https://github.com/user-attachments/assets/575215e2-199d-4820-9d8b-32bd738e910c" alt="Maggie Shao" width="200">
 
 <html lang="en">
 <head>
@@ -45,8 +45,8 @@ Applied advanced concepts from UCSD's Principles of Data Science course to deliv
 Used the "Friends" TV show dataset to write a system using Pandas in Python that analyzed viewership, ratings, and other parameters.<br>
 Predicted the most successful qualities of a potential show reboot based on the dataset.<br>
 Applied concepts from UCSD's Principles of Data Science course to create a functional prediction model.</li>
-    </ul>
-<h5></strong>Example Image</h5>
+   
+<h5>Example Image</h5>
     <img src="https://github.com/user-attachments/assets/84ba369a-e536-4758-86ef-10fa7f2166c6" alt="Screenshot 2025-01-15 at 01 04 24" width="500">
 </div>
 
