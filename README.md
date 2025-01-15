@@ -2,7 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/575215e2-199d-4820-9d8b-32bd738e910c" alt="Maggie Shao" width="150">
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +12,6 @@
   
     
   
-</div>
 
 <div class="nav">
     <a href="#about">About</a>
