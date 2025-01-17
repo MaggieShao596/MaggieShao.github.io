@@ -15,13 +15,21 @@
 
 <div class="nav">
     <a href="#about">About</a>
+    <a href="#resume">Resume</a>
     <a href="#projects">Projects</a>
     <a href="#contact">Contact</a>
+    
 </div>
 
 <div class="content" id="about">
     <h2>About Me</h2>
-    <p>Hi, I'm Maggie Shao👋! I'm a student at University of California, San Diego right now. I have a deep love for data and a curiosity about where they can lead me. Welcome to my personal website!</p>
+    <p>Hi, I'm Maggie Shao👋! I'm a student at University of California, San Diego right now. I have a deep love for data and a curiosity about where they can lead me. I am passionate about leveraging technical and
+analytical expertise to address inequality and promote greater equity through innovative. Welcome to my personal website! </p>
+</div>
+
+<div class="content" id="resume">
+    <h2>My Resume 📃</h2>
+    <a href="https://drive.google.com/file/d/1gifMy_pdcfIAp33yyFBZNE45BQ1BpVW-/view?usp=sharing" target="_blank">Resume</a>
 </div>
 
 <div class="content" id="projects">
