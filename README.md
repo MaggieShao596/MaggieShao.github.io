@@ -63,7 +63,7 @@ Applied concepts from UCSD's Principles of Data Science course to create a funct
 
 <div class="content" id="skills">
     <h2>Skills</h2>
-<img width="1279" alt="Screenshot 2025-01-23 at 00 03 26" src="https://github.com/user-attachments/assets/c62e1b9d-4a21-41ac-b707-05786e100a11" alt="Skills" width="600">
+<img width="1279" alt="Screenshot 2025-01-23 at 00 03 26" src="https://github.com/user-attachments/assets/c62e1b9d-4a21-41ac-b707-05786e100a11" alt="Skills" width="800">
 
     
 <div class="content" id="contact">
