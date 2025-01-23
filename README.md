@@ -17,6 +17,7 @@
     <a href="#about">About</a>
     <a href="#resume">Resume</a>
     <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
     <a href="#contact">Contact</a>
     
 </div>
@@ -25,7 +26,9 @@
     <h2>About Me</h2>
     <p>Hi, I'm Maggie Shao👋! I'm a student at University of California, San Diego right now. I have a deep love for data and a curiosity about where they can lead me. I am passionate about leveraging technical and
 analytical expertise to address inequality and promote greater equity through innovative. Welcome to my personal website! </p>
+    
 </div>
+
 
 <div class="content" id="resume">
     <h2>My Resume 📃</h2>
@@ -58,6 +61,11 @@ Applied concepts from UCSD's Principles of Data Science course to create a funct
     <img src="https://github.com/user-attachments/assets/84ba369a-e536-4758-86ef-10fa7f2166c6" alt="Screenshot 2025-01-15 at 01 04 24" width="500">
 </div>
 
+<div class="content" id="skills">
+    <h2>Skills</h2>
+<img width="1279" alt="Screenshot 2025-01-23 at 00 03 26" src="https://github.com/user-attachments/assets/c62e1b9d-4a21-41ac-b707-05786e100a11" alt="Maggie Shao" width="200">
+
+    
 <div class="content" id="contact">
     <h2>Contact</h2>
     <p>Email: yis082@ucsd.edu /maggie050906@gmail.com</p>
